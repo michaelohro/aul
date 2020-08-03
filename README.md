@@ -1,0 +1,2 @@
+# aul
+Assyrian Unified Language
